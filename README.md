@@ -1,5 +1,7 @@
 # Personal Profile
 ## Hi there 👋
+
+I am trying to prepare 6th week review - [Node.js, MongoDB, Javascript, Express.js]
 <!--
 **Sarath-Kumar-s-m/Sarath-Kumar-s-m** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
